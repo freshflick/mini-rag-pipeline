@@ -1,0 +1,13 @@
+{
+  "strategies": {
+    "paragraph": {
+      "chunk_count": 4,
+      "top3_hit_rate": 1.0
+    },
+    "fixed": {
+      "chunk_count": 8,
+      "top3_hit_rate": 1.0
+    }
+  },
+  "explanation": "Both strategies had the same top-3 hit rate; paragraph chunks retain more context, while fixed-size chunks provide narrower evidence."
+}

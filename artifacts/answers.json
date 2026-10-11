@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "Q1",
+    "answer_label": "grounded_answer",
+    "answer_reason": "source_sentence",
+    "answer": "Bank withdrawals may take 1 to 3 business days after approval. [Cash withdrawal processing §chunk_0002]",
+    "citations": [
+      "[Cash withdrawal processing §chunk_0002]"
+    ],
+    "used_chunk_ids": [
+      "chunk_0002"
+    ]
+  },
+  {
+    "query_id": "Q2",
+    "answer_label": "grounded_answer",
+    "answer_reason": "source_sentence",
+    "answer": "Reset links expire after 30 minutes. [Password reset and account recovery §chunk_0001]",
+    "citations": [
+      "[Password reset and account recovery §chunk_0001]"
+    ],
+    "used_chunk_ids": [
+      "chunk_0001"
+    ]
+  },
+  {
+    "query_id": "Q3",
+    "answer_label": "grounded_answer",
+    "answer_reason": "source_sentence",
+    "answer": "For security reasons, support agents cannot see or manually reveal user passwords. [Password reset and account recovery §chunk_0001]",
+    "citations": [
+      "[Password reset and account recovery §chunk_0001]"
+    ],
+    "used_chunk_ids": [
+      "chunk_0001"
+    ]
+  },
+  {
+    "query_id": "Q4",
+    "answer_label": "grounded_answer",
+    "answer_reason": "source_sentence",
+    "answer": "Utility bills older than 6 months are not accepted. [Document verification requirements §chunk_0003]",
+    "citations": [
+      "[Document verification requirements §chunk_0003]"
+    ],
+    "used_chunk_ids": [
+      "chunk_0003"
+    ]
+  },
+  {
+    "query_id": "Q5",
+    "answer_label": "grounded_answer",
+    "answer_reason": "source_sentence",
+    "answer": "Demo profit cannot be withdrawn. [Demo account behaviour §chunk_0004]",
+    "citations": [
+      "[Demo account behaviour §chunk_0004]"
+    ],
+    "used_chunk_ids": [
+      "chunk_0004"
+    ]
+  }
+]

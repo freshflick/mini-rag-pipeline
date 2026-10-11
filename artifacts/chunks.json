@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "chunk_0001",
+    "doc_title": "Password reset and account recovery",
+    "section": "Login help",
+    "text": "If a user forgets their password, they can request a reset email from the login page.\nReset links expire after 30 minutes.\nFor security reasons, support agents cannot see or manually reveal user passwords.\nIf two-factor authentication is enabled and the user lost access to their authenticator app, backup codes can be used.\nIf backup codes are unavailable, the user must complete identity verification before 2FA can be reset.\n",
+    "start_char": 64,
+    "end_char": 492,
+    "source_path": "kb/article_01.txt"
+  },
+  {
+    "chunk_id": "chunk_0002",
+    "doc_title": "Cash withdrawal processing",
+    "section": "Payments",
+    "text": "Withdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day.\nBank withdrawals may take 1 to 3 business days after approval.\nE-wallet withdrawals are typically processed within 4 hours after approval.\nIf an account is under compliance review, withdrawals remain pending until the review is completed.\nUsers can check the withdrawal status from the cashier history page.\n",
+    "start_char": 53,
+    "end_char": 455,
+    "source_path": "kb/article_02.txt"
+  },
+  {
+    "chunk_id": "chunk_0003",
+    "doc_title": "Document verification requirements",
+    "section": "Verification",
+    "text": "Proof of identity documents must be valid and unexpired.\nProof of address documents must show the user's full name, address, and issue date.\nUtility bills older than 6 months are not accepted.\nBank statements older than 3 months are not accepted.\nImages must be clear, uncropped, and readable.\n",
+    "start_char": 65,
+    "end_char": 359,
+    "source_path": "kb/article_03.txt"
+  },
+  {
+    "chunk_id": "chunk_0004",
+    "doc_title": "Demo account behaviour",
+    "section": "Trading",
+    "text": "Demo accounts use virtual funds and do not reflect real-market execution exactly.\nPrices may be delayed in some environments.\nDemo profit cannot be withdrawn.\nUsers should switch to a real account to trade with real funds.\n",
+    "start_char": 48,
+    "end_char": 271,
+    "source_path": "kb/article_04.txt"
+  }
+]

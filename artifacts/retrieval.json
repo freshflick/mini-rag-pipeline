@@ -1,0 +1,152 @@
+[
+  {
+    "query_id": "Q1",
+    "question": "I requested a bank withdrawal yesterday. How long can it take after approval?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "chunk_0002",
+        "doc_title": "Cash withdrawal processing",
+        "section": "Payments",
+        "score": 5.425133,
+        "chunk_text": "Withdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day.\nBank withdrawals may take 1 to 3 business days after approval.\nE-wallet withdrawals are typically processed within 4 hours after approval.\nIf an account is under compliance review, withdrawals remain pending until the review is completed.\nUsers can check the withdrawal status from the cashier history page.\n"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "chunk_0004",
+        "doc_title": "Demo account behaviour",
+        "section": "Trading",
+        "score": 0.778791,
+        "chunk_text": "Demo accounts use virtual funds and do not reflect real-market execution exactly.\nPrices may be delayed in some environments.\nDemo profit cannot be withdrawn.\nUsers should switch to a real account to trade with real funds.\n"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "chunk_0003",
+        "doc_title": "Document verification requirements",
+        "section": "Verification",
+        "score": 0.715168,
+        "chunk_text": "Proof of identity documents must be valid and unexpired.\nProof of address documents must show the user's full name, address, and issue date.\nUtility bills older than 6 months are not accepted.\nBank statements older than 3 months are not accepted.\nImages must be clear, uncropped, and readable.\n"
+      }
+    ]
+  },
+  {
+    "query_id": "Q2",
+    "question": "My reset link is not working after an hour. Is that expected?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "chunk_0001",
+        "doc_title": "Password reset and account recovery",
+        "section": "Login help",
+        "score": 3.140546,
+        "chunk_text": "If a user forgets their password, they can request a reset email from the login page.\nReset links expire after 30 minutes.\nFor security reasons, support agents cannot see or manually reveal user passwords.\nIf two-factor authentication is enabled and the user lost access to their authenticator app, backup codes can be used.\nIf backup codes are unavailable, the user must complete identity verification before 2FA can be reset.\n"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "chunk_0002",
+        "doc_title": "Cash withdrawal processing",
+        "section": "Payments",
+        "score": 1.168008,
+        "chunk_text": "Withdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day.\nBank withdrawals may take 1 to 3 business days after approval.\nE-wallet withdrawals are typically processed within 4 hours after approval.\nIf an account is under compliance review, withdrawals remain pending until the review is completed.\nUsers can check the withdrawal status from the cashier history page.\n"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "chunk_0003",
+        "doc_title": "Document verification requirements",
+        "section": "Verification",
+        "score": 0.97369,
+        "chunk_text": "Proof of identity documents must be valid and unexpired.\nProof of address documents must show the user's full name, address, and issue date.\nUtility bills older than 6 months are not accepted.\nBank statements older than 3 months are not accepted.\nImages must be clear, uncropped, and readable.\n"
+      }
+    ]
+  },
+  {
+    "query_id": "Q3",
+    "question": "Can support tell me what my password currently is?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "chunk_0001",
+        "doc_title": "Password reset and account recovery",
+        "section": "Login help",
+        "score": 3.031599,
+        "chunk_text": "If a user forgets their password, they can request a reset email from the login page.\nReset links expire after 30 minutes.\nFor security reasons, support agents cannot see or manually reveal user passwords.\nIf two-factor authentication is enabled and the user lost access to their authenticator app, backup codes can be used.\nIf backup codes are unavailable, the user must complete identity verification before 2FA can be reset.\n"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "chunk_0002",
+        "doc_title": "Cash withdrawal processing",
+        "section": "Payments",
+        "score": 0.0,
+        "chunk_text": "Withdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day.\nBank withdrawals may take 1 to 3 business days after approval.\nE-wallet withdrawals are typically processed within 4 hours after approval.\nIf an account is under compliance review, withdrawals remain pending until the review is completed.\nUsers can check the withdrawal status from the cashier history page.\n"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "chunk_0003",
+        "doc_title": "Document verification requirements",
+        "section": "Verification",
+        "score": 0.0,
+        "chunk_text": "Proof of identity documents must be valid and unexpired.\nProof of address documents must show the user's full name, address, and issue date.\nUtility bills older than 6 months are not accepted.\nBank statements older than 3 months are not accepted.\nImages must be clear, uncropped, and readable.\n"
+      }
+    ]
+  },
+  {
+    "query_id": "Q4",
+    "question": "Will a utility bill from 8 months ago work for proof of address?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "chunk_0003",
+        "doc_title": "Document verification requirements",
+        "section": "Verification",
+        "score": 7.558243,
+        "chunk_text": "Proof of identity documents must be valid and unexpired.\nProof of address documents must show the user's full name, address, and issue date.\nUtility bills older than 6 months are not accepted.\nBank statements older than 3 months are not accepted.\nImages must be clear, uncropped, and readable.\n"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "chunk_0001",
+        "doc_title": "Password reset and account recovery",
+        "section": "Login help",
+        "score": 0.0,
+        "chunk_text": "If a user forgets their password, they can request a reset email from the login page.\nReset links expire after 30 minutes.\nFor security reasons, support agents cannot see or manually reveal user passwords.\nIf two-factor authentication is enabled and the user lost access to their authenticator app, backup codes can be used.\nIf backup codes are unavailable, the user must complete identity verification before 2FA can be reset.\n"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "chunk_0002",
+        "doc_title": "Cash withdrawal processing",
+        "section": "Payments",
+        "score": 0.0,
+        "chunk_text": "Withdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day.\nBank withdrawals may take 1 to 3 business days after approval.\nE-wallet withdrawals are typically processed within 4 hours after approval.\nIf an account is under compliance review, withdrawals remain pending until the review is completed.\nUsers can check the withdrawal status from the cashier history page.\n"
+      }
+    ]
+  },
+  {
+    "query_id": "Q5",
+    "question": "Can I withdraw profit made on a demo account?",
+    "top_k": [
+      {
+        "rank": 1,
+        "chunk_id": "chunk_0004",
+        "doc_title": "Demo account behaviour",
+        "section": "Trading",
+        "score": 4.901497,
+        "chunk_text": "Demo accounts use virtual funds and do not reflect real-market execution exactly.\nPrices may be delayed in some environments.\nDemo profit cannot be withdrawn.\nUsers should switch to a real account to trade with real funds.\n"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "chunk_0002",
+        "doc_title": "Cash withdrawal processing",
+        "section": "Payments",
+        "score": 1.637119,
+        "chunk_text": "Withdrawal requests submitted before 17:00 UTC are usually reviewed on the same business day.\nBank withdrawals may take 1 to 3 business days after approval.\nE-wallet withdrawals are typically processed within 4 hours after approval.\nIf an account is under compliance review, withdrawals remain pending until the review is completed.\nUsers can check the withdrawal status from the cashier history page.\n"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "chunk_0001",
+        "doc_title": "Password reset and account recovery",
+        "section": "Login help",
+        "score": 0.455956,
+        "chunk_text": "If a user forgets their password, they can request a reset email from the login page.\nReset links expire after 30 minutes.\nFor security reasons, support agents cannot see or manually reveal user passwords.\nIf two-factor authentication is enabled and the user lost access to their authenticator app, backup codes can be used.\nIf backup codes are unavailable, the user must complete identity verification before 2FA can be reset.\n"
+      }
+    ]
+  }
+]

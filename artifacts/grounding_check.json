@@ -1,0 +1,32 @@
+[
+  {
+    "query_id": "Q1",
+    "citation_valid": true,
+    "wording_supported": true,
+    "passed": true
+  },
+  {
+    "query_id": "Q2",
+    "citation_valid": true,
+    "wording_supported": true,
+    "passed": true
+  },
+  {
+    "query_id": "Q3",
+    "citation_valid": true,
+    "wording_supported": true,
+    "passed": true
+  },
+  {
+    "query_id": "Q4",
+    "citation_valid": true,
+    "wording_supported": true,
+    "passed": true
+  },
+  {
+    "query_id": "Q5",
+    "citation_valid": true,
+    "wording_supported": true,
+    "passed": true
+  }
+]

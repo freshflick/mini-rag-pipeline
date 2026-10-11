@@ -1,0 +1,23 @@
+{
+  "stages": [
+    "INIT",
+    "DOCUMENTS_LOADED",
+    "DOCUMENTS_CHUNKED",
+    "INDEX_BUILT",
+    "RETRIEVAL_COMPLETE",
+    "ANSWERS_GENERATED",
+    "EVALUATION_COMPLETE",
+    "VALIDATION_COMPLETE",
+    "RESULTS_FINALISED"
+  ],
+  "input_fingerprint": "2a67b52a3b088b4a12ff949f9cfec32eeedd65214c91d5abb981dc2826f6294b",
+  "documents_loaded": 4,
+  "chunks_created": 4,
+  "queries_processed": 5,
+  "warnings": [],
+  "validation": {
+    "passed": true,
+    "checked_queries": 5,
+    "checked_chunks": 4
+  }
+}
